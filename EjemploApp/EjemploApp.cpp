@@ -37,7 +37,7 @@ int main(array<System::String ^> ^args)
     Application::EnableVisualStyles();
     Application::SetCompatibleTextRenderingDefault(false);
     EjemploApp::EjemploForm form;
-    Application::Run(% form);
+   // Application::Run(% form);
     //Console::WriteLine(clase1->atributo1.ToString());
 
 
