@@ -34,9 +34,9 @@ int main(array<System::String ^> ^args)
     clase1->atributo1 = 4;
     int a;
 
-    Application::EnableVisualStyles();
-    Application::SetCompatibleTextRenderingDefault(false);
-    EjemploApp::EjemploForm form;
+    //Application::EnableVisualStyles();
+    //Application::SetCompatibleTextRenderingDefault(false);
+   // EjemploApp::EjemploForm form;
    // Application::Run(% form);
     //Console::WriteLine(clase1->atributo1.ToString());
 
