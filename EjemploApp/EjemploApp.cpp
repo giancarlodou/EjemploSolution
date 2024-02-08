@@ -40,7 +40,7 @@ int main(array<System::String ^> ^args)
    Application::Run(% form);
    Console::WriteLine(clase1->atributo1.ToString());
 
-
+   //ADASDSADAS
    
 }
 
