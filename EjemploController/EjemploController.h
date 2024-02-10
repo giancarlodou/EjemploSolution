@@ -7,7 +7,7 @@ namespace EjemploController {
 	{
 	private:
 	public:
-		//1234512345
+		//12345
 		// TODO: Agregue aquí los métodos de esta clase.
 	};
 }
