@@ -5,8 +5,8 @@ using namespace System;
 namespace EjemploController {
 	public ref class Controller
 	{
-	//private:
-	//public:
+	private:
+	public:
 
 		// TODO: Agregue aquí los métodos de esta clase.
 	};
